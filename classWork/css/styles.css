@@ -1,0 +1,42 @@
+h1
+{font-size: 48pt;
+    color: midnightblue;
+    font-weight: bold;
+}
+p{
+    font-size: 14pt;
+    color: black;
+}
+body{
+    background-color: lightblue;
+}
+
+#similarColor{
+    color: yellow;
+    background: brown;
+}
+
+#guy{
+    color: yellow;
+    background: orange;
+}
+
+[title]{
+
+}
+a:link{
+    text-decoration: underline;
+    color: blue;
+}
+
+a:visited{
+    text-decoration: underline;
+    color: purple;
+}
+a:hover{
+    text-decoration: none;
+    font-weight: bold;
+}
+a:active{
+    background-color: yellow;
+}

@@ -1,0 +1,13 @@
+h1
+{font-size: 28pt;
+    color: antiquewhite;
+    font-weight: bold;
+    font-family: "Mongolian Baiti", serif;
+}
+p{
+    font-size: 14pt;
+    color: white;
+}
+body{
+    background-color: black;
+}

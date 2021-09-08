@@ -1,0 +1,12 @@
+h1
+{font-size: 48pt;
+    color: yellow;
+    font-weight: bold;
+}
+p{
+    font-size: 14pt;
+    color: black;
+}
+body{
+    background-color: brown;
+}
