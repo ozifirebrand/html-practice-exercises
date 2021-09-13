@@ -22,8 +22,8 @@ body{
 }
 
 [title]{
-
 }
+
 a:link{
     text-decoration: underline;
     color: blue;
@@ -33,10 +33,12 @@ a:visited{
     text-decoration: underline;
     color: purple;
 }
+
 a:hover{
     text-decoration: none;
     font-weight: bold;
 }
+
 a:active{
     background-color: yellow;
 }
