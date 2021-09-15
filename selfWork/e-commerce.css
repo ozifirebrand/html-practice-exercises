@@ -1,0 +1,12 @@
+[title]{
+    cursor: help;
+    padding-bottom: 3px;
+    border-bottom: 2px dotted blue;
+    text-decoration: none;
+}
+h1{
+    cursor: help;
+    padding-bottom: 3px;
+    border-bottom: 2px dotted blue;
+    color: rebeccapurple;
+}
