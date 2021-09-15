@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f95d977-6f54-4585-8388-f68eb4c026a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/productsPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classWork/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classWork/.idea/classWork.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classWork/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classWork/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="62ca7a0b-5c5d-4776-95be-7a31cfdbfdb9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e-commerce.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/e-commerce.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/e-commerce.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/e-commerce.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/homePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productsPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/productsPage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1yAC2bdsVU4W4QTH5PhQfzlI3bt" />
+  <component name="ProjectId" id="1y84lEEwXRB72KDb2c25PXWGyip" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,38 +34,24 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../harmony home pattern" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4f95d977-6f54-4585-8388-f68eb4c026a8" name="Default Changelist" comment="" />
-      <created>1631684800525</created>
+      <changelist id="62ca7a0b-5c5d-4776-95be-7a31cfdbfdb9" name="Default Changelist" comment="" />
+      <created>1631620029986</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1631684800525</updated>
-      <workItem from="1631684802282" duration="303000" />
-      <workItem from="1631685346755" duration="4054000" />
+      <updated>1631620029986</updated>
+      <workItem from="1631620031351" duration="5667000" />
+      <workItem from="1631637134599" duration="738000" />
+      <workItem from="1631640215749" duration="307000" />
+      <workItem from="1631684645592" duration="72000" />
     </task>
     <servers />
   </component>

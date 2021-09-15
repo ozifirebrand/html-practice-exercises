@@ -4,6 +4,10 @@
     border-bottom: 2px dotted blue;
     text-decoration: none;
 }
+a:hover{
+    text-decoration: underline;
+    color:rebeccapurple ;
+}
 h1{
     cursor: help;
     padding-bottom: 3px;
