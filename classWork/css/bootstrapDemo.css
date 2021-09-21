@@ -1,3 +1,10 @@
 .container-fluid{
     background-color: red;
 }
+
+.col-sm-4{
+    background-color: lightskyblue;
+}
+.col-sm-8{
+    background-color: yellow;
+}
